@@ -13,7 +13,11 @@ dependencies:
       url: https://github.com/geekinesis/vector_graphics.git
       path: packages/vector_graphics
       ref: 2cbfcd3256e9f584be4a3971fe2965a97900aef7  #     
-  vector_graphics_codec: ^1.1.11
+  vector_graphics_codec:
+    git:
+      url: https://github.com/geekinesis/vector_graphics.git
+      path: packages/vector_graphics_codec
+      ref: 2cbfcd3256e9f584be4a3971fe2965a97900aef7  #     
   vector_graphics_compiler:
     git:
       url: https://github.com/geekinesis/vector_graphics.git
